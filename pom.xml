@@ -4,7 +4,7 @@
 
   <groupId>com.github.zhongjiqiang</groupId>
   <artifactId>luban-srv-java</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
   <name>luban-srv-java</name>
   <url>http://maven.apache.org</url>
@@ -26,12 +26,13 @@
   <scm>
     <url>https://github.com/zhongjiqiang/luban-srv-java</url>
     <connection>git@github.com:zhongjiqiang/luban-srv-java.git</connection>
-    <developerConnection>http://www.flyzy2005.cn</developerConnection>
+    <developerConnection>http://www.shopex.cn</developerConnection>
   </scm>
   <developers>
     <developer>
       <name>zhongjiqiang</name>
       <email>2007202673.1@163.com</email>
+       <url>http://www.shopex.cn</url>
     </developer>
   </developers>
 
